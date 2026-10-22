@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Bixby Trail Finder",
+  "short_name": "Bixby Trails",
+  "description": "51 Oklahoma walks and hikes, saved favorites and trail directions.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f5f1",
+  "theme_color": "#153b2f",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
