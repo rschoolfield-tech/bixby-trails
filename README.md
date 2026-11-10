@@ -10,11 +10,11 @@ Search by trail, town, or feature. Choose a filter and tap the heart to save a t
 
 ## Offline and favorites
 
-Visit online once and wait for the offline-ready message. Trail text and app files can then be read without a connection. Maps, directions, external notices, and uncached photographs require internet. Browser storage may be cleared or evicted.
+Visit online once and wait for the offline-ready message. Trail text and app files can then be read without a connection. Trail thumbnails are embedded in the guide and are available with the cached page. Maps, directions and external notices require internet. Browser storage may be cleared or evicted.
 
 Favorites stay on each device. Use Back up favorites to download a backup and Restore favorites to merge that backup into another browser or device. The original HTML's favorites can be moved through its existing browser storage or a JSON array of trail IDs; do not assume favorites automatically sync to a new website address.
 
-Trail information was inherited from the October 19, 2026 guide; notices show their original check dates and are not live. Check the official park links before traveling. External photographs remain hosted by their original providers and may be unavailable.
+Trail information was inherited from the October 19, 2026 guide; notices show their original check dates and are not live. Check the official park links before traveling. Thumbnails use licensed or public-domain images with in-app source and license credits. Twenty-one cards show park/area imagery; thirty use a clearly labeled generic woodland photo, not a depiction of that trail. Images are resized and embedded, avoiding fragile third-party hotlinks.
 
 ## Hosting
 
@@ -23,3 +23,4 @@ Publish the main branch root with GitHub Pages. Keep index.html, sw.js, manifest
 GitHub Pages documentation: https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
 
 Apple installation instructions: https://support.apple.com/guide/iphone/iphea86e5236/ios
+
