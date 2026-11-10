@@ -1,4 +1,4 @@
-const CACHE = 'bixby-trails-shell-v4-20261020';
+const CACHE = 'bixby-trails-shell-v5-20261108';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icons/icon.svg', './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(SHELL)));
